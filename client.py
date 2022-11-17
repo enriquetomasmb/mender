@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 
 def main():
     fp = open('/tmp/file_created_by_python_script.txt', 'w')
