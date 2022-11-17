@@ -1,6 +1,6 @@
 
 def main():
-    fp = open('file.txt', 'w')
+    fp = open('/tmp/file_created_by_python_script.txt', 'w')
     fp.write('first line')
     fp.close()
 
